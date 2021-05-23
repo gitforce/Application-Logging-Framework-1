@@ -1,7 +1,7 @@
 /**
   * @author        Saumil Bapat
   * @date          10/28/2016
-  * @description   Batch class to delete old logs
+  * @description   Batch class to delete old logs 
 */
 global class PurgeLogs implements Database.Batchable<sObject>
 {
