@@ -1,7 +1,7 @@
 /**
     * @author        Saumil Bapat
     * @date          10/17/2016
-    * @description   UTIL class for logging errors
+    * @description   UTIL class for logging errors 
 */
 public class UTIL_Logging{
 

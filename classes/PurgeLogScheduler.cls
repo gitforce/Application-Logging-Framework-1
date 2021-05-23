@@ -1,6 +1,6 @@
 /**
   * @author        Saumil Bapat
-  * @date          10/28/2016
+  * @date          10/28/2016 
   * @description   Schedulable class to schedule PurgeLogs batch jobs
 */
 global class PurgeLogScheduler implements Schedulable{

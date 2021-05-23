@@ -1,7 +1,7 @@
 /**
   * @author        Saumil Bapat
   * @date          10/31/2016
-  * @description   Test class for PurgeLogs batch jobs
+  * @description   Test class for PurgeLogs batch jobs 
 */
 @isTest
 private Class UTIL_Logging_Test {
